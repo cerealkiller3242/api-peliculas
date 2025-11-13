@@ -1,4 +1,4 @@
-org: enzosant
+org: cerealkiller3242
 service: api-pelicula
 
 provider:
@@ -40,3 +40,4 @@ resources:
             KeyType: RANGE
         # Set the capacity to auto-scale
         BillingMode: PAY_PER_REQUEST
+
